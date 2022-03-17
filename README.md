@@ -7,6 +7,6 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Android development
 - 🌱 I’m currently learning Web development, Machine Learning
-- Skills: Java, Python, C, C#, HTML, CSS, Javascript
+- Skills: Java, Kotlin, Python, C, C#, HTML, CSS, Javascript
 - 📫 How to reach me: akarsh0603@gmail.com
 
