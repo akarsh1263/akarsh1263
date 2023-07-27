@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Web development, Android development
-- 🌱 I’m currently learning Blockchain development, Machine Learning
-- Skills: Java, Python, Flask, HTML, CSS, Bootstrap, Javascript
+- 🔭 I’m currently working on backend development
+- 🌱 I’m currently learning Machine Learning
+- Skills: Java, Python, Javascript, Typescript, Golang
 - 📫 How to reach me: akarsh0603@gmail.com
 
